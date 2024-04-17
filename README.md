@@ -1,2 +1,2 @@
 # Quote-generator
- a simple quote generator 
+ a simple random quote generator 
