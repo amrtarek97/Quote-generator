@@ -18,20 +18,20 @@ const quotes = [
         person: "batman"
     },
     {
-        quote: `"I am hungry"`,
-        person: "batman"
+        quote: `"What if a child dreams of becoming something other than what society had intended?"`,
+        person: "superman"
     },
     {
         quote: `"A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a young boy's shoulders to let him know that the world hadn't ended."`,
         person:"batman"
     },
     {
-        quote: `"'This is the end, Batman!' Every damn night. And yet... I'm still here."`,
-        person: "batman"
+        quote: `"Heroes are made by the path they choose, not the powers they are graced with."`,
+        person: "iron-man"
     },
     {
-        quote: `"If you are good, the shadow's wings are a welcome, protective blanket."`,
-        person: "batman"
+        quote: `"With great power comes great responsibility."`,
+        person: "spiderman"
     },
     {
         quote: `"I wear a mask. And that mask, it's not to hide who I am, but to create what I am."`,
