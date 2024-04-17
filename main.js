@@ -14,7 +14,7 @@ const quotes = [
         person:"batman"
     },
     {
-        quote: `I am BATMAN"`,
+        quote: `"I am BATMAN"`,
         person: "batman"
     },
     {
